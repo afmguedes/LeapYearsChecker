@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LeapYearsKata.UnitTests", "
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Tests", "Tests", "{AD0C6440-3AFF-4343-BC5C-A3A33783286A}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LeapYearsKata", "LeapYearsKata\LeapYearsKata.csproj", "{0C7DA98D-E5A1-427F-AA79-3EA97AE5768A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -17,6 +19,10 @@ Global
 		{41A5B063-EE82-4A98-A400-36ED1C13C9F9}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{41A5B063-EE82-4A98-A400-36ED1C13C9F9}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{41A5B063-EE82-4A98-A400-36ED1C13C9F9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0C7DA98D-E5A1-427F-AA79-3EA97AE5768A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0C7DA98D-E5A1-427F-AA79-3EA97AE5768A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0C7DA98D-E5A1-427F-AA79-3EA97AE5768A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0C7DA98D-E5A1-427F-AA79-3EA97AE5768A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
